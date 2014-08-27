@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
  */
 class ChosenAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/nex/yii2-chosen/assets';
+    public $sourcePath = '@vendor/bloody-hell/yii2-chosen/assets';
 
     public $css = [
         'css/chosen.bootstrap.css'
