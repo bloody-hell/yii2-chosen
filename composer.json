@@ -1,5 +1,5 @@
 {
-    "name": "nex/yii2-chosen",
+    "name": "bloody-hell/yii2-chosen",
     "type": "yii2-extension",
     "description": "Bootstrap Chosen widget for Yii2",
     "keywords": ["yii2", "extension", "widget", "chosen", "bootstrap", "bootstrap 3"],
